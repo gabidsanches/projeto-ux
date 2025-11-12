@@ -18,7 +18,13 @@ Para entender os problemas e o contexto dos usuários, selecionamos dois método
     * **Problema de Visualização:** Dificuldade em entender as parcelas já existente, alegando que não entende exatamente quando dada parcela vai se encerrar. Apontou também dificuldade ao lidar com cores fortes, distraindo-se muito fácil.
     * **Desejo (Oportunidade):** O usuário busca um serviço que supra com boa UI suas planilhas.
 
-    <img src="./assets/aythan.jpg" width="300" alt="Aythan">
+* **Dados Entrevista n3:**
+    * O usuário utiliza planilha + bloco de notas manual.
+    * **Problema Principal:** Dificuldade em controle de pequenos gastos, de modo a não ter tempo e aptidão para inserir todos os gastos corretamente.
+    * **Desejo (Oportunidade):** Busca facilitar a inserção de gastos via mobile pela portabilidade e assim largaria o bloco de notas. A planilha encontra-se no desktop, e não consegue acessar a qualquer horário.
+
+    <img src="./assets/aythan.jpg" width="300" alt="Aythan - entrevistado 2">
+    <img src="./assets/fabiano.jpg" width="300" alt="Fabiano - entrevistado 3">
 ### Método 2: Pesquisas (Surveys via Forms)
 
 * **Justificativa:** Enquanto a entrevista nos deu profundidade (o "porquê"), a pesquisa (Survey) foi usada para obter amplitude (o "quantos"). O objetivo foi validar se as frustrações encontradas na Entrevista n1 (complexidade, visualização ruim) eram comuns a um grupo maior de pessoas e coletar dados demográficos sobre nosso público.
