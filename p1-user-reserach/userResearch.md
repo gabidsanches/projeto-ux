@@ -62,8 +62,27 @@ Para entender os problemas e o contexto dos usuários, selecionamos dois método
 ### Método 2: Pesquisas (Surveys via Forms)
 
 * **Justificativa:** Enquanto a entrevista nos deu profundidade (o "porquê"), a pesquisa (Survey) foi usada para obter amplitude (o "quantos"). O objetivo foi validar se as frustrações encontradas na Entrevista n1 (complexidade, visualização ruim) eram comuns a um grupo maior de pessoas e coletar dados demográficos sobre nosso público.
-* **Resumo das Descobertas (Baseado no Forms):**
-    * ** resumo forms **
+* **Resumo das Descobertas (Baseado no Forms):
+*    Ferramentas Atuais: Os usuários gerenciam finanças majoritariamente via Aplicativos de Banco e Planilhas.
+
+*    Prioridades de Usabilidade e comunicação, o feedback indica uma alta demanda por interfaces simples, claras e diretas:
+   *    Evitar jargões financeiros complexos. Usar linguagem natural e direta.
+   *    Investir em uma arquitetura de informação e navegação excepcionalmente clara.
+   *    Telas de confirmação de ações (transações, cadastros) são essenciais.
+   *    Usar ícones com rótulos de texto claros para garantir a compreensão da função dos botões.
+
+*    Acessibilidade e Design Visual (UX/UI)
+As preferências dos usuários destacam a importância de opções de personalização visual e legibilidade:
+
+*   Design Visual:
+
+   Modo Escuro (Dark Mode): Forte preferência.
+   Densidade de Informação: Evitar telas com "muita coisa junta". Priorizar layouts limpos e com bom espaçamento.
+
+*   Acessibilidade:
+
+   Escalabilidade: Implementar a opção de aumentar o tamanho da fonte.
+   Contraste: Garantir altas taxas de contraste em todo o design.
 
 ---
 
