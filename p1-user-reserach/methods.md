@@ -28,8 +28,15 @@ Para entender os problemas e o contexto dos usuários, selecionamos dois método
 ### Método 2: Pesquisas (Surveys via Forms)
 
 * **Justificativa:** Enquanto a entrevista nos deu profundidade (o "porquê"), a pesquisa (Survey) foi usada para obter amplitude (o "quantos"). O objetivo foi validar se as frustrações encontradas na Entrevista n1 (complexidade, visualização ruim) eram comuns a um grupo maior de pessoas e coletar dados demográficos sobre nosso público.
-* **Resumo das Descobertas (Baseado no Forms):
+* **A partir dos dados coletados no formulário, descobrimos o seguinte:
+
+*    Perfil dos usuários: Verificamos que a vasta maioria das pessoas que respondeu o forms é da área da tecnologia e possuem cargos sêniores, o que explica a necessidade deles de funcionalidades mais avançadas de investimento.
+
+     <img src="./assets/conhecimento_tech.jpg">
+
 *    Ferramentas Atuais: Os usuários gerenciam finanças majoritariamente via Aplicativos de Banco e Planilhas.
+
+     <img src="./assets/ferramentas_utilizadas.jpg" alt="Ferramentas mais utilizadas">
 
 *    Prioridades de Usabilidade e comunicação, o feedback indica uma alta demanda por interfaces simples, claras e diretas:
    *    Evitar jargões financeiros complexos. Usar linguagem natural e direta.
@@ -37,17 +44,21 @@ Para entender os problemas e o contexto dos usuários, selecionamos dois método
    *    Telas de confirmação de ações (transações, cadastros) são essenciais.
    *    Usar ícones com rótulos de texto claros para garantir a compreensão da função dos botões.
 
+   <img src="./assets/questão_concordância_1.jpg">
+   <img src="./assets/questão_concordância_2.jpg">
+
 *    Acessibilidade e Design Visual (UX/UI)
 As preferências dos usuários destacam a importância de opções de personalização visual e legibilidade:
 
 *   Design Visual:
 
-   Modo Escuro (Dark Mode): Forte preferência.
+   Modo Escuro (Dark Mode): Certa preferência.
    Densidade de Informação: Evitar telas com "muita coisa junta". Priorizar layouts limpos e com bom espaçamento.
 
 *   Acessibilidade:
+  
+   Conforme respondido pelos usuários, as tecnologias assistivas mais utilizadas são de Lupa/Zoom na tela e de controle por ditado de voz. Implementaremos essas funcionalidades para auxiliar na leitura e usabilidade da aplicação no geral.
 
-   Escalabilidade: Implementar a opção de aumentar o tamanho da fonte.
-   Contraste: Garantir altas taxas de contraste em todo o design.
+   <img src="./assets/tecnologias_assistivas.jpg">
 
 ---
