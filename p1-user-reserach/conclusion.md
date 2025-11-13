@@ -10,9 +10,10 @@ No final das contas tanto a entrevista quanto o formulário servem propósitos m
 
 1.  **Registrar um gasto rapidamente** (com o mínimo de campos: Valor, Categoria simples).
 2.  **Verificar "quanto ainda posso gastar** (um indicador visual claro do orçamento restante).
-3.  **Alterar entre modo avançado e básico** (desta forma usuários leigos na parte de investimentos teriam mais facilidade com o uso).
+3.  **Alterar entre modo avançado e básico** (desta forma usuários leigos na parte de investimentos teriam mais facilidade com o uso, algumas opções ficariam ocultas apenas).
 4.  **Diferenciar gastos por banco/cartão** (resolvendo a dor da "falta de clareza" por banco).
 5.  **Ajustar o tamanho do texto do aplicativo** (para corresponder às configurações de acessibilidade do celular).
 6.  **Corrigir a categoria de um gasto** (seja ele manual ou vindo do banco).
 7.  **Visualizar o crescimento de um investimento** (um gráfico de linhas simples).
 8.  **Comparar ações para escolher um investimento** (uma interface que mostre a comparação de preços/juros entre ativos)
+
