@@ -6,20 +6,20 @@ Para entender os problemas e o contexto dos usuários, selecionamos dois método
 
 * **Justificativa:** Escolhemos entrevistas para obter dados qualitativos profundos. Elas nos permitem entender o *porquê* por trás das frustrações dos usuários, capturando emoções e contextos específicos (como a confusão com "muitas opções") que um formulário quantitativo não conseguiria. 
 * **Dados Entrevista n1:**
-    * A usuária atual já tenta se organizar (usa app "Minhas Economias" e planilhas), mas ainda sente "falta de clareza".
+    * A entrevistada já tenta se organizar (usa app "Minhas Economias" e planilhas), mas ainda sente "falta de clareza".
     * **Problema Principal:** Os apps atuais são confusos, têm "muitas opções de funcionalidade" e exigem muito esforço para registrar um simples gasto ("preencher muita coisa").
     * **Problema de Visualização:** Dificuldade em entender *onde* está gastando (ex: "qual banco"), sugerindo que os gráficos atuais são ineficazes.
     * **Problema de Automação:** A conexão bancária (Open Finance) falha na categorização, o que gera retrabalho e desconfiança.
     * **Desejo (Oportunidade):** A usuária busca simplicidade ("fácil navegação, menos botões"), quer saber "o quanto ainda pode gastar" (foco no futuro, não só no passado) e valoriza acessibilidade (letra personalizada).
 
 * **Dados Entrevista n2:**
-    * O usuário utiliza planilhas feitas por ele mesmo para controle financeiro.
+    * O entrevistado utiliza planilhas feitas por ele mesmo para controle financeiro.
     * **Problema Principal:** Não há uma integração com o banco, de modo que o saldo esteja em tempo real, tendo um open finance. É uma aplicação completamente autogerenciada, de modo que não tem automações ou um fácil registro/análise nas planilhas.
     * **Problema de Visualização:** Dificuldade em entender as parcelas já existente, alegando que não entende exatamente quando dada parcela vai se encerrar. Apontou também dificuldade ao lidar com cores fortes, distraindo-se muito fácil.
     * **Desejo (Oportunidade):** O usuário busca um serviço que supra com boa UI suas planilhas.
 
 * **Dados Entrevista n3:**
-    * O usuário utiliza planilha + bloco de notas manual.
+    * O entrevistado utiliza planilha + bloco de notas manual.
     * **Problema Principal:** Dificuldade em controle de pequenos gastos, de modo a não ter tempo e aptidão para inserir todos os gastos corretamente.
     * **Desejo (Oportunidade):** Busca facilitar a inserção de gastos via mobile pela portabilidade e assim largaria o bloco de notas. A planilha encontra-se no desktop, e não consegue acessar a qualquer horário.
 
