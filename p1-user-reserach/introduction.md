@@ -28,7 +28,7 @@ O design será focado em usuários frequentemente negligenciados por aplicativos
     * **Descrição:** Experiência variável com tecnologia, mas dependem de recursos de acessibilidade (como leitores de tela ou ajuste de fonte/contraste).
     * **Necessidades:** Conformidade total com as diretrizes de acessibilidade da plataforma (iOS/Android), feedback tátil/sonoro e visualizações de dados que não dependam apenas de cores (ex: gráficos com texturas ou rótulos claros).
 
-* **Pessoas com Dificuldades Cognitivas ou Baixa Literacia Financeira:**
+* **Pessoas com baixa literacia Financeira:**
     * **Descrição:** Podem se sentir sobrecarregados ("confusa, muitas opções de análise", como visto na entrevista).
     * **Necessidades:** Linguagem simples (evitar jargão financeiro), foco em uma ou duas tarefas principais (Registrar Gasto, Ver Saldo) e talvez um assistente (IA) para tirar dúvidas simples.
 
@@ -44,3 +44,4 @@ O design será focado em usuários frequentemente negligenciados por aplicativos
     * **Descrição:** (Se o app evoluir) Podem ser parceiros para integração de contas, mas sua complexidade (visto na entrevista: "conectado direto com o banco mas não categorizava direito") é um risco para a simplicidade.
 
 ---
+
